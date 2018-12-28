@@ -9,14 +9,14 @@
   "test": {
     "username": "bfuwxqjbsqobah",
     "password": "9abe02516678df0b84d4770902c0154f2a09a81836bf2c135a98e7767ebdeb15",
-    "database": "database_test",
+    "database": "de1eikhm3kf8u7",
     "host": "ec2-54-225-89-156.compute-1.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
     "username": "bfuwxqjbsqobah",
     "password": "9abe02516678df0b84d4770902c0154f2a09a81836bf2c135a98e7767ebdeb15",
-    "database": "database_production",
+    "database": "de1eikhm3kf8u7",
     "host": "ec2-54-225-89-156.compute-1.amazonaws.com",
     "dialect": "postgres"
   }
